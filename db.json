@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "rahul123",
+      "email": "rahul@123",
+      "password": "rahul123"
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "category": "Family",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons":"2",
+      "capacity":"3",
+      "cost":"4000",
+      "booked":false
+    },
+        {
+      "id": 2,
+      "category": "Single",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons":"1",
+      "capacity":"1",
+      "cost":"1000",
+      "booked":false
+    },
+        {
+      "id": 3,
+      "category": "Family",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons":"2",
+      "capacity":"2",
+      "cost":"2000",
+      "booked":false
+    },
+        {
+      "id": 4,
+      "category": "Single",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons":"1",
+      "capacity":"1",
+      "cost":"3000",
+      "booked":false
+    },
+        {
+      "id": 5,
+      "category": "Family",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "Non-AC",
+      "bed_type": "Double",
+      "no_of_persons":"2",
+      "capacity":"3",
+      "cost":"4000",
+      "booked":false
+    },
+        {
+      "id": 6,
+      "category": "Family",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons":"2",
+      "capacity":"3",
+      "cost":"4000",
+      "booked":false
+    }
+  ],
+  "admin":[
+    {
+      "id": 1,
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka"
+  }
+  ]
+}
