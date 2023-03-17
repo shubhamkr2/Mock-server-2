@@ -34,7 +34,7 @@
       "url":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
       "email": "sahil@123",
       "password": "sahil123"
-    },
+    }
   ],
   "blogs": [
     {
@@ -45,7 +45,7 @@
       "category": "Entertainment",
       "date":"2017-06-01",
       "likes":24,
-      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}],
+      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}]
     },
         {
       "id": 2,
@@ -55,7 +55,7 @@
       "category": "Entertainment",
       "date":"2017-06-01",
       "likes":24,
-      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}],
+      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}]
     },
         {
       "id": 3,
@@ -65,7 +65,7 @@
       "category": "Entertainment",
       "date":"2017-06-01",
       "likes":24,
-      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}],
+      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}]
     },
         {
       "id": 4,
@@ -75,7 +75,7 @@
       "category": "Entertainment",
       "date":"2017-06-01",
       "likes":24,
-      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}],
+      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}]
     },
         {
       "id": 5,
@@ -85,7 +85,7 @@
       "category": "Entertainment",
       "date":"2017-06-01",
       "likes":24,
-      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}],
+      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}]
     },
         {
       "id": 6,
@@ -95,7 +95,7 @@
       "category": "Entertainment",
       "date":"2017-06-01",
       "likes":24,
-      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}],
+      "comments":[{username:"jane", content:"Good One"},{username:"Bob",content:"nice"}]
     }
   ],
   "admin":[
